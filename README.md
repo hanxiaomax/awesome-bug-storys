@@ -2,7 +2,7 @@
 have fun with bugs and tell me your story
 
 
-##Software Bugs
+## Software Bugs
 
 
 - [What is a coder's worst nightmare?](https://www.quora.com/What-is-a-coders-worst-nightmare/answer/Mick-Stute)  
@@ -25,7 +25,7 @@ have fun with bugs and tell me your story
 - [12+ Biggest Software Failures Of All Time](https://www.rankred.com/biggest-software-failures/)  
 **zh :** [Bug 引发的 18 次重大事故](http://blog.jobbole.com/104583/)
 
-##Real Word Bugs
+## Real Word Bugs
 - [The Bug in the Physical Building](https://two-wrongs.com/the-bug-in-the-physical-building)  
 **zh :** [实体建筑中的 Bug](http://blog.jobbole.com/106719/)
 
