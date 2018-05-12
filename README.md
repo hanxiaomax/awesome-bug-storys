@@ -1,6 +1,8 @@
 # awesome-bug-storys
 have fun with bugs and tell me your story
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 
 ## Software Bugs
 
